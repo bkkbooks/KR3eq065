@@ -1,0 +1,2079 @@
+canonical_identifier: bkk:krp/KR3eq065/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq065/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 慈濟醫話
+  identifiers:
+    krp: KR3eq065
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq065.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq065_000-jc.yaml, hash: 'sha256:f9472762599f1978151471609a99e0a01678ed82fb5253137e38894e7b3720be'}
+  - {seq: 1, filename: KR3eq065_001-jc.yaml, hash: 'sha256:317b97731039fbd960c3b5694a71425549bc97d448c0935c6dfa7a3b5ce014e6'}
+  - {seq: 0, filename: KR3eq065_000-jc.yaml, hash: 'sha256:b72b57fadcc681bea6a0df3fddc36d0f47d1d765576c9122f0fe3f783d38f028'}
+  - {seq: 2, filename: KR3eq065_002-jc.yaml, hash: 'sha256:854c7b9bd5298fd0dd71b2773ec453b8d8c82d4f987d366d1de58cb74d252679'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq065_000-jc.markers.yaml, hash: 'sha256:31e8026384adf380cd6dcc28910d96fd803fbb2e2821088329c0153affe816da'}
+  - {seq: 1, role: markers, filename: assets/KR3eq065_001-jc.markers.yaml, hash: 'sha256:4e81981d2c455458b36912468984325f3b4dcb7fd7e36748630f7cd8c6f914cd'}
+  - {seq: 0, role: markers, filename: assets/KR3eq065_000-jc.markers.yaml, hash: 'sha256:31e8026384adf380cd6dcc28910d96fd803fbb2e2821088329c0153affe816da'}
+  - {seq: 2, role: markers, filename: assets/KR3eq065_002-jc.markers.yaml, hash: 'sha256:5d04306dd5de35ae8868aec13fc8e9bba0b8d4c2e2089e8b73bf1745bcd9088a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq065_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 367
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 20115
+  label: 慈濟醫話卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3d2
+    span:
+    - body
+    - 6
+    - 1775
+  label: 慈濟醫話癸亥夏季
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d2
+    span:
+    - body
+    - 14
+    - 78
+  label: 內經注重穀氣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d3
+    span:
+    - body
+    - 78
+    - 236
+  label: 學醫首要在讀本內二經
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d4
+    span:
+    - body
+    - 236
+    - 293
+  label: 立方忌泥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d5
+    span:
+    - body
+    - 293
+    - 505
+  label: 今病多宜涼劑
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d6
+    span:
+    - body
+    - 505
+    - 626
+  label: 兒病視指筋定之
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d7
+    span:
+    - body
+    - 626
+    - 812
+  label: 治痧疹之法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d8
+    span:
+    - body
+    - 812
+    - 856
+  label: 治痧疹之用藥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d9
+    span:
+    - body
+    - 856
+    - 930
+  label: 論膈症
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d10
+    span:
+    - body
+    - 930
+    - 984
+  label: 痰帶血治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d11
+    span:
+    - body
+    - 984
+    - 1019
+  label: 溫病治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d12
+    span:
+    - body
+    - 1019
+    - 1178
+  label: 勞症治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d13
+    span:
+    - body
+    - 1178
+    - 1276
+  label: 肝症治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d14
+    span:
+    - body
+    - 1276
+    - 1345
+  label: 怪病治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d15
+    span:
+    - body
+    - 1345
+    - 1661
+  label: 肝瘋治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d16
+    span:
+    - body
+    - 1661
+    - 1727
+  label: 大黃木香適用何病
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d2d17
+    span:
+    - body
+    - 1727
+    - 1775
+  label: 脾濕啜粥法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3d3
+    span:
+    - body
+    - 1775
+    - 6427
+  label: 慈濟醫話癸亥夏季
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d2
+    span:
+    - body
+    - 1783
+    - 2421
+  label: 六脈之部位
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d3
+    span:
+    - body
+    - 2421
+    - 2835
+  label: 以肺為蓋以胃為釜以腎中相火為炊故能化穀氣而養形臟駁論
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d4
+    span:
+    - body
+    - 2835
+    - 3060
+  label: 說蟲
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d5
+    span:
+    - body
+    - 3060
+    - 3243
+  label: 醫者用藥之難
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d6
+    span:
+    - body
+    - 3243
+    - 3432
+  label: 立方時宜慎之點
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d7
+    span:
+    - body
+    - 3432
+    - 3502
+  label: 涕之關係輕重不同
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d8
+    span:
+    - body
+    - 3502
+    - 3544
+  label: 病之宜宣宜澀
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d9
+    span:
+    - body
+    - 3544
+    - 3591
+  label: 症之寒熱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d10
+    span:
+    - body
+    - 3591
+    - 3752
+  label: 溫病痧疹夜發燒而晝不發燒之故
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d11
+    span:
+    - body
+    - 3752
+    - 3876
+  label: 發燒有陰陽虛實之不同
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d12
+    span:
+    - body
+    - 3876
+    - 3994
+  label: 論痧疹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d13
+    span:
+    - body
+    - 3994
+    - 4040
+  label: 舌脫殼痧出而人反死
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d14
+    span:
+    - body
+    - 4040
+    - 4130
+  label: 溫病痧疹有時不思涼反思熱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d15
+    span:
+    - body
+    - 4130
+    - 4287
+  label: 論濕熱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d16
+    span:
+    - body
+    - 4287
+    - 4382
+  label: 肝氣病之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d17
+    span:
+    - body
+    - 4382
+    - 4627
+  label: 木剋土病之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d18
+    span:
+    - body
+    - 4627
+    - 4796
+  label: 停食作燒之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d19
+    span:
+    - body
+    - 4796
+    - 4955
+  label: 內有熱外為寒搏忌用白虎湯
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d20
+    span:
+    - body
+    - 4955
+    - 5092
+  label: 內有寒外為熱搏先用清涼之理
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d21
+    span:
+    - body
+    - 5092
+    - 5217
+  label: 今日外科症多由濕毒熱結所致然往往用大涼則陷里用溫補則易已其故安在
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d22
+    span:
+    - body
+    - 5217
+    - 5368
+  label: 外症為熱毒所聚其腐也何以反由血寒
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d23
+    span:
+    - body
+    - 5368
+    - 5660
+  label: 婦科胎前產後之用藥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d24
+    span:
+    - body
+    - 5660
+    - 5986
+  label: 論抱子勞
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d25
+    span:
+    - body
+    - 5986
+    - 6158
+  label: 婦女崩漏有寒熱虛實之不同
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d26
+    span:
+    - body
+    - 6158
+    - 6237
+  label: 解拍花迷藥法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d27
+    span:
+    - body
+    - 6237
+    - 6297
+  label: 耳腫治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d28
+    span:
+    - body
+    - 6297
+    - 6338
+  label: 苦膽與牛黃之異性
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d3d29
+    span:
+    - body
+    - 6338
+    - 6427
+  label: 論全生集
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3d4
+    span:
+    - body
+    - 6427
+    - 10992
+  label: 慈濟醫話癸亥秋季
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d2
+    span:
+    - body
+    - 6435
+    - 6631
+  label: 醫者責在救人
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d3
+    span:
+    - body
+    - 6631
+    - 6807
+  label: 醫道浸衰之原
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d4
+    span:
+    - body
+    - 6807
+    - 6931
+  label: 論內經之主要
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d5
+    span:
+    - body
+    - 6931
+    - 7042
+  label: 處方宜洞明醫理
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d6
+    span:
+    - body
+    - 7042
+    - 7268
+  label: 治病不宜膠執成法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d7
+    span:
+    - body
+    - 7268
+    - 7403
+  label: 治病不宜專決於脈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d8
+    span:
+    - body
+    - 7403
+    - 7548
+  label: 治病貴得病家信心
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d9
+    span:
+    - body
+    - 7548
+    - 7699
+  label: 用藥瀉多於補之理
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d10
+    span:
+    - body
+    - 7699
+    - 8036
+  label: 水穀精微經行臟腑之次序
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d11
+    span:
+    - body
+    - 8036
+    - 8770
+  label: 誤藥之敗象及死期
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d12
+    span:
+    - body
+    - 8770
+    - 9053
+  label: 陰陽之開闔樞
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d13
+    span:
+    - body
+    - 9053
+    - 9239
+  label: 營榮衛
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d14
+    span:
+    - body
+    - 9239
+    - 9312
+  label: 風傷衛寒傷營
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d15
+    span:
+    - body
+    - 9312
+    - 9518
+  label: 肝肺部位中西論各不同究應何從
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d16
+    span:
+    - body
+    - 9518
+    - 9615
+  label: 脈何以能動何以因其動而能測表裡虛實
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d17
+    span:
+    - body
+    - 9615
+    - 9814
+  label: 經絡脈之別
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d18
+    span:
+    - body
+    - 9814
+    - 9874
+  label: 筋薄處是否即穴
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d19
+    span:
+    - body
+    - 9874
+    - 9996
+  label: 論嗽
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d20
+    span:
+    - body
+    - 9996
+    - 10128
+  label: 口渴之種類及原因與治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d21
+    span:
+    - body
+    - 10128
+    - 10237
+  label: 胃寒而嘔脾虛而泄與霍亂之熱證吐泄其區別安在
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d22
+    span:
+    - body
+    - 10237
+    - 10367
+  label: 論霍亂症
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d23
+    span:
+    - body
+    - 10367
+    - 10431
+  label: 論便紅症
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d24
+    span:
+    - body
+    - 10431
+    - 10475
+  label: 論虛弱便紅症
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d25
+    span:
+    - body
+    - 10475
+    - 10574
+  label: 傷寒有熱入血室白晝清明夜則譫妄如見鬼狀顯系熱邪古方何以反用柴胡湯加牡丹皮治之
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d26
+    span:
+    - body
+    - 10574
+    - 10675
+  label: 喉症治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d27
+    span:
+    - body
+    - 10675
+    - 10763
+  label: 病人聞有人耳語之故
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d28
+    span:
+    - body
+    - 10763
+    - 10816
+  label: 用針用藥
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d29
+    span:
+    - body
+    - 10816
+    - 10921
+  label: 梅花刺與陰刺陽刺
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d4d30
+    span:
+    - body
+    - 10921
+    - 10992
+  label: 前講熱走小腸為淋今講熱留小腸為閉而不通前後不同何故
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3d5
+    span:
+    - body
+    - 10992
+    - 18578
+  label: 慈濟醫話癸亥冬季
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d2
+    span:
+    - body
+    - 11000
+    - 11080
+  label: 醫貴明理
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d3
+    span:
+    - body
+    - 11080
+    - 11176
+  label: 論治病之難
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d4
+    span:
+    - body
+    - 11176
+    - 11373
+  label: 治病用法之步趨
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d5
+    span:
+    - body
+    - 11373
+    - 11449
+  label: 論中西醫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d6
+    span:
+    - body
+    - 11449
+    - 11709
+  label: 論中西醫
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d7
+    span:
+    - body
+    - 11709
+    - 11972
+  label: 內經成於何代作於何人當就文字推定
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d8
+    span:
+    - body
+    - 11972
+    - 12240
+  label: 註解醫書以內經為最難
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d9
+    span:
+    - body
+    - 12240
+    - 12416
+  label: 註解內經宜博於參考
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d10
+    span:
+    - body
+    - 12416
+    - 12557
+  label: 註解內經宜求真是
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d11
+    span:
+    - body
+    - 12557
+    - 12612
+  label: 論新內經
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d12
+    span:
+    - body
+    - 12612
+    - 12851
+  label: 改脾為厥陰心包為太陰之主張
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d13
+    span:
+    - body
+    - 12851
+    - 13004
+  label: 間臟與不間臟
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d14
+    span:
+    - body
+    - 13004
+    - 13079
+  label: 心之部位與脈氣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d15
+    span:
+    - body
+    - 13079
+    - 13230
+  label: 心包脈之部位
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d16
+    span:
+    - body
+    - 13230
+    - 13280
+  label: 腎志恐
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d17
+    span:
+    - body
+    - 13280
+    - 13475
+  label: 論三焦
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d18
+    span:
+    - body
+    - 13475
+    - 13591
+  label: 論胃氣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d19
+    span:
+    - body
+    - 13591
+    - 13667
+  label: 論脈之潤澀
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d20
+    span:
+    - body
+    - 13667
+    - 13954
+  label: 脈分五色之故及觀脈色之法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d21
+    span:
+    - body
+    - 13954
+    - 14147
+  label: 論運氣
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d22
+    span:
+    - body
+    - 14147
+    - 14458
+  label: 五行相生之中亦能相剋
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d23
+    span:
+    - body
+    - 14458
+    - 14510
+  label: 論人之強弱
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d24
+    span:
+    - body
+    - 14510
+    - 14621
+  label: 論婦科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d25
+    span:
+    - body
+    - 14621
+    - 14660
+  label: 論幼科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d26
+    span:
+    - body
+    - 14660
+    - 14819
+  label: 論病傳之分類
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d27
+    span:
+    - body
+    - 14819
+    - 14982
+  label: 風濕之理
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d28
+    span:
+    - body
+    - 14982
+    - 15108
+  label: 隱軫之解釋
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d29
+    span:
+    - body
+    - 15108
+    - 15341
+  label: 論受寒治潔之不同
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d30
+    span:
+    - body
+    - 15341
+    - 15411
+  label: 治肝宜分別虛實
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d31
+    span:
+    - body
+    - 15411
+    - 15470
+  label: 脈色青或黑之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d32
+    span:
+    - body
+    - 15470
+    - 15643
+  label: 論痧疹
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d33
+    span:
+    - body
+    - 15643
+    - 15686
+  label: 羊毛疔治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d34
+    span:
+    - body
+    - 15686
+    - 15861
+  label: 黃病治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d35
+    span:
+    - body
+    - 15861
+    - 15995
+  label: 熱因風閉血為所煎而脈甚靜之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d36
+    span:
+    - body
+    - 15995
+    - 16138
+  label: 寒泄之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d37
+    span:
+    - body
+    - 16138
+    - 16218
+  label: 陰虛作嗽之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d38
+    span:
+    - body
+    - 16218
+    - 17462
+  label: 問答十五則
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d39
+    span:
+    - body
+    - 17462
+    - 17600
+  label: 論薑母之病
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d40
+    span:
+    - body
+    - 17600
+    - 17940
+  label: 論程君之病
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d41
+    span:
+    - body
+    - 17940
+    - 18020
+  label: 本年癸亥冬溫之治法
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d42
+    span:
+    - body
+    - 18020
+    - 18195
+  label: 預防春瘟
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d43
+    span:
+    - body
+    - 18195
+    - 18352
+  label: 生軍之效用
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d44
+    span:
+    - body
+    - 18352
+    - 18425
+  label: 白蓮花
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d45
+    span:
+    - body
+    - 18425
+    - 18473
+  label: 枇杷葉
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d5d46
+    span:
+    - body
+    - 18473
+    - 18578
+  label: 三甲與生地元參之別
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3d6
+    span:
+    - body
+    - 18578
+    - 20115
+  label: 附錄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d6d2
+    span:
+    - body
+    - 18580
+    - 19469
+  label: 認穴說
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3eq065_jc_001-d3.d6d3
+    span:
+    - body
+    - 19469
+    - 20115
+  label: 五臟氣血生養說
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eq065_jc_000-d4.h1s1
+    span:
+    - front
+    - 0
+    - 608
+  label: 慈濟醫話序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6779
+  label: 慈濟醫話卷二上篇
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d2
+    span:
+    - body
+    - 8
+    - 254
+  label: 太極兩儀四象八卦圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d3
+    span:
+    - body
+    - 254
+    - 620
+  label: 太極生理氣象數圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d4
+    span:
+    - body
+    - 620
+    - 799
+  label: 初卦及先後天卦之遞嬗
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d5
+    span:
+    - body
+    - 799
+    - 994
+  label: 初卦圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d6
+    span:
+    - body
+    - 994
+    - 1622
+  label: 先天卦圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d7
+    span:
+    - body
+    - 1622
+    - 1827
+  label: 後天卦圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d8
+    span:
+    - body
+    - 1827
+    - 2065
+  label: 初卦先後天卦比較圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d9
+    span:
+    - body
+    - 2065
+    - 2236
+  label: 由先後天卦推及臟腑之關鍵
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d10
+    span:
+    - body
+    - 2236
+    - 2508
+  label: 臟腑卦圖一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d11
+    span:
+    - body
+    - 2508
+    - 2593
+  label: 臟腑卦圖二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d12
+    span:
+    - body
+    - 2593
+    - 2733
+  label: 八卦應十二月圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d13
+    span:
+    - body
+    - 2733
+    - 3935
+  label: 以地支定六氣司天表
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d14
+    span:
+    - body
+    - 3935
+    - 4097
+  label: 臟腑應十二月圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d15
+    span:
+    - body
+    - 4097
+    - 4213
+  label: 陰陽已分而五行未相生圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d16
+    span:
+    - body
+    - 4213
+    - 4280
+  label: 五行相生方位圍
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d17
+    span:
+    - body
+    - 4280
+    - 4375
+  label: 五行以土定位變化圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d18
+    span:
+    - body
+    - 4375
+    - 5042
+  label: 天一生水地六成之地二生火天七成之天三生本地八成之地四生金天九成之天五生土地十成之
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d19
+    span:
+    - body
+    - 5042
+    - 6218
+  label: 五運圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d20
+    span:
+    - body
+    - 6218
+    - 6561
+  label: 三陰三陽與八卦五運配合圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d21
+    span:
+    - body
+    - 6561
+    - 6705
+  label: 天之五行五位五氣表
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d22
+    span:
+    - body
+    - 6705
+    - 6714
+  label: 人之五藏五氣五志表
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d23
+    span:
+    - body
+    - 6714
+    - 6771
+  label: 天地人之五妙五行五運表
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d5d24
+    span:
+    - body
+    - 6771
+    - 6779
+  label: 五行之真氣性味表
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6.h1s1
+    span:
+    - body
+    - 6779
+    - 16802
+  label: 慈濟醫話卷二下篇
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d2
+    span:
+    - body
+    - 6787
+    - 6849
+  label: 論本內二經
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d3
+    span:
+    - body
+    - 6849
+    - 7212
+  label: 學醫不可分門戶宜宗本內二經
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d4
+    span:
+    - body
+    - 7212
+    - 7463
+  label: 學醫宜矯時弊
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d5
+    span:
+    - body
+    - 7463
+    - 7549
+  label: 學醫貴知新
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d6
+    span:
+    - body
+    - 7549
+    - 7746
+  label: 學醫之步驟
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d7
+    span:
+    - body
+    - 7746
+    - 7873
+  label: 學醫至上之法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d8
+    span:
+    - body
+    - 7873
+    - 8137
+  label: 配方之法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d9
+    span:
+    - body
+    - 8137
+    - 8255
+  label: 古無秘方
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d10
+    span:
+    - body
+    - 8255
+    - 8437
+  label: 審症當察天時及病因
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d11
+    span:
+    - body
+    - 8437
+    - 8494
+  label: 臨證之要
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d12
+    span:
+    - body
+    - 8494
+    - 8708
+  label: 論陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d13
+    span:
+    - body
+    - 8708
+    - 8784
+  label: 論五行
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d14
+    span:
+    - body
+    - 8784
+    - 8925
+  label: 論風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d15
+    span:
+    - body
+    - 8925
+    - 9143
+  label: 論五音
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d16
+    span:
+    - body
+    - 9143
+    - 9200
+  label: 五味之所欲
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d17
+    span:
+    - body
+    - 9200
+    - 9265
+  label: 九竅與臟腑之關係
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d18
+    span:
+    - body
+    - 9265
+    - 9291
+  label: 咽嗌之解釋
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d19
+    span:
+    - body
+    - 9291
+    - 9459
+  label: 臟腑相表裡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d20
+    span:
+    - body
+    - 9459
+    - 9618
+  label: 募原之解釋
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d21
+    span:
+    - body
+    - 9618
+    - 9662
+  label: 兩感於寒之解釋
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d22
+    span:
+    - body
+    - 9662
+    - 9820
+  label: 腎為先天胃為後天
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d23
+    span:
+    - body
+    - 9820
+    - 9848
+  label: 脾藏意
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d24
+    span:
+    - body
+    - 9848
+    - 9908
+  label: 脾之動用
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d25
+    span:
+    - body
+    - 9908
+    - 9939
+  label: 胃主鳳
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d26
+    span:
+    - body
+    - 9939
+    - 9972
+  label: 胃行氣於三陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d27
+    span:
+    - body
+    - 9972
+    - 10054
+  label: 脾行氣於三陰
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d28
+    span:
+    - body
+    - 10054
+    - 10121
+  label: 膽可稱奇陽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d29
+    span:
+    - body
+    - 10121
+    - 10267
+  label: 君火相火
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d30
+    span:
+    - body
+    - 10267
+    - 10486
+  label: 論榮衛
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d31
+    span:
+    - body
+    - 10486
+    - 11400
+  label: 論脈
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d32
+    span:
+    - body
+    - 11400
+    - 11464
+  label: 寒邪熱邪
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d33
+    span:
+    - body
+    - 11464
+    - 11548
+  label: 虛實
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d34
+    span:
+    - body
+    - 11548
+    - 11612
+  label: 生陽死陰不治之理
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d35
+    span:
+    - body
+    - 11612
+    - 11776
+  label: 內傷病難痊之理
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d36
+    span:
+    - body
+    - 11776
+    - 11832
+  label: 痓與痙之別
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d37
+    span:
+    - body
+    - 11832
+    - 11893
+  label: 嘔之分別
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d38
+    span:
+    - body
+    - 11893
+    - 12009
+  label: 喘之分別
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d39
+    span:
+    - body
+    - 12009
+    - 12091
+  label: 泄之分別
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d40
+    span:
+    - body
+    - 12091
+    - 12240
+  label: 論今春之病不發燒而脈沉細之故甲子春
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d41
+    span:
+    - body
+    - 12240
+    - 12335
+  label: 胃脅串痛大便不燥口不渴之治法甲子春
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d42
+    span:
+    - body
+    - 12335
+    - 12591
+  label: 少陽司天之病症及治法甲子夏
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d43
+    span:
+    - body
+    - 12591
+    - 12648
+  label: 夏末秋初宜用之藥品
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d44
+    span:
+    - body
+    - 12648
+    - 12694
+  label: 夏多虛症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d45
+    span:
+    - body
+    - 12694
+    - 13323
+  label: 治瘧之方甲子秋
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d46
+    span:
+    - body
+    - 13323
+    - 13406
+  label: 論傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d47
+    span:
+    - body
+    - 13406
+    - 13529
+  label: 論脫骨傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d48
+    span:
+    - body
+    - 13529
+    - 15336
+  label: 各症問答十七則
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d49
+    span:
+    - body
+    - 15336
+    - 15974
+  label: 婦科六則
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d50
+    span:
+    - body
+    - 15974
+    - 16124
+  label: 兒科二則
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d51
+    span:
+    - body
+    - 16124
+    - 16578
+  label: 論藥
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d52
+    span:
+    - body
+    - 16578
+    - 16675
+  label: 用藥於小節亦宜慎
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq065_jc_002-d6d53
+    span:
+    - body
+    - 16675
+    - 16802
+  label: 中藥與西藥
+  type: section
+  level: 2
+hash: sha256:b00810b1a411bd066de1829993301e6f6cfb61fd727324cf41d8d140bb054d5b
