@@ -16,14 +16,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:07821bdb005e6eb32b3f4e4aedcb805be52c3ce0192945c77972be72b84da457'}
-  - {seq: 1, filename: KR3eq065_001.yaml, hash: 'sha256:349f5d9158acd539b73e082cd6d9a87889a29f90077c33396f9eaf39acd2634b'}
-  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:07821bdb005e6eb32b3f4e4aedcb805be52c3ce0192945c77972be72b84da457'}
-  - {seq: 2, filename: KR3eq065_002.yaml, hash: 'sha256:1a83a37dc55bea2422adf06b5bf96f4d53053d38410e2eba40b5541b88c52279'}
+  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:b72b57fadcc681bea6a0df3fddc36d0f47d1d765576c9122f0fe3f783d38f028'}
+  - {seq: 1, filename: KR3eq065_001.yaml, hash: 'sha256:317b97731039fbd960c3b5694a71425549bc97d448c0935c6dfa7a3b5ce014e6'}
+  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:b72b57fadcc681bea6a0df3fddc36d0f47d1d765576c9122f0fe3f783d38f028'}
+  - {seq: 2, filename: KR3eq065_002.yaml, hash: 'sha256:854c7b9bd5298fd0dd71b2773ec453b8d8c82d4f987d366d1de58cb74d252679'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq065_000.markers.yaml, hash: 'sha256:886e69174630e7586841a62148790e627ba2b209d2a331d5f81e03e2453ea840'}
-  - {seq: 1, role: markers, filename: assets/KR3eq065_001.markers.yaml, hash: 'sha256:2ea5f75693bbe865e61913d4e5e542e867dd1a4413a7632d90801b318fdfe402'}
-  - {seq: 2, role: markers, filename: assets/KR3eq065_002.markers.yaml, hash: 'sha256:21e240b7d315910a6a6dcca72595ec3254acb0696badbebc2a729ffc32a1ab61'}
+  - {seq: 0, role: markers, filename: assets/KR3eq065_000.markers.yaml, hash: 'sha256:ecf94eaa56246ee3385a71ff1f8a0575cec09a1c428168e9d5fe53da6d881752'}
+  - {seq: 1, role: markers, filename: assets/KR3eq065_001.markers.yaml, hash: 'sha256:4f14720c5e665814231714710ef7e463dc398ae76d7cc330222e73c2be7e0fed'}
+  - {seq: 2, role: markers, filename: assets/KR3eq065_002.markers.yaml, hash: 'sha256:f7556b37c6944b13d7b7a5895774db85ff39b4cfd7d4e8f7d162c211202f2966'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2075,7 +2075,4 @@ table_of_contents:
   label: 中藥與西藥
   type: section
   level: 2
-hash: sha256:82c6ac0eb552a279a89bc299142ce472a6000c1d7cea51e2d880c9876774d522
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c17d06b191260db10cfcc69b0ca9d540ae38ccc77aaf7da2ebe0e4c60f7d88ef
