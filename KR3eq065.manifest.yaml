@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eq065/v1
 canonical_location: https://kanripo.org/bkk/KR3eq065/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 慈濟醫話
   identifiers:
@@ -16,14 +16,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:b72b57fadcc681bea6a0df3fddc36d0f47d1d765576c9122f0fe3f783d38f028'}
-  - {seq: 1, filename: KR3eq065_001.yaml, hash: 'sha256:317b97731039fbd960c3b5694a71425549bc97d448c0935c6dfa7a3b5ce014e6'}
-  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:b72b57fadcc681bea6a0df3fddc36d0f47d1d765576c9122f0fe3f783d38f028'}
-  - {seq: 2, filename: KR3eq065_002.yaml, hash: 'sha256:854c7b9bd5298fd0dd71b2773ec453b8d8c82d4f987d366d1de58cb74d252679'}
+  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:07821bdb005e6eb32b3f4e4aedcb805be52c3ce0192945c77972be72b84da457'}
+  - {seq: 1, filename: KR3eq065_001.yaml, hash: 'sha256:cf2c067ec097e25f82b86dda70dd419a6edd3b37ffbb37ff9f5399dc5318b582'}
+  - {seq: 0, filename: KR3eq065_000.yaml, hash: 'sha256:07821bdb005e6eb32b3f4e4aedcb805be52c3ce0192945c77972be72b84da457'}
+  - {seq: 2, filename: KR3eq065_002.yaml, hash: 'sha256:6432afb61e26b8b4d1b40ecea03194327ca2688abd5de38223fa614f45280fdb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq065_000.markers.yaml, hash: 'sha256:ecf94eaa56246ee3385a71ff1f8a0575cec09a1c428168e9d5fe53da6d881752'}
-  - {seq: 1, role: markers, filename: assets/KR3eq065_001.markers.yaml, hash: 'sha256:4f14720c5e665814231714710ef7e463dc398ae76d7cc330222e73c2be7e0fed'}
-  - {seq: 2, role: markers, filename: assets/KR3eq065_002.markers.yaml, hash: 'sha256:f7556b37c6944b13d7b7a5895774db85ff39b4cfd7d4e8f7d162c211202f2966'}
+  - {seq: 0, role: markers, filename: assets/KR3eq065_000.markers.yaml, hash: 'sha256:fd72ba16a359a3af4d4fff2dc9475cc8cf7827107f228ccc60581716a5d4dd7f'}
+  - {seq: 1, role: markers, filename: assets/KR3eq065_001.markers.yaml, hash: 'sha256:855f384ad81829307d88e34ef1102e472c5690f0b395376cacb35a0bc2f97f9d'}
+  - {seq: 2, role: markers, filename: assets/KR3eq065_002.markers.yaml, hash: 'sha256:b31dd81fee55c793cce0b3046180a96a87a173dc1bd94b788a06c0cc469b33a4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2075,4 +2075,7 @@ table_of_contents:
   label: 中藥與西藥
   type: section
   level: 2
-hash: sha256:c17d06b191260db10cfcc69b0ca9d540ae38ccc77aaf7da2ebe0e4c60f7d88ef
+hash: sha256:7691ee22be70fc32590a03748e7ff322475e2d61cb53e56198fd9503b07a1ff8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
