@@ -22,8 +22,8 @@ assets:
   - {seq: 2, filename: KR3eq065_002.yaml, hash: 'sha256:6432afb61e26b8b4d1b40ecea03194327ca2688abd5de38223fa614f45280fdb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eq065_000.markers.yaml, hash: 'sha256:fd72ba16a359a3af4d4fff2dc9475cc8cf7827107f228ccc60581716a5d4dd7f'}
-  - {seq: 1, role: markers, filename: assets/KR3eq065_001.markers.yaml, hash: 'sha256:855f384ad81829307d88e34ef1102e472c5690f0b395376cacb35a0bc2f97f9d'}
-  - {seq: 2, role: markers, filename: assets/KR3eq065_002.markers.yaml, hash: 'sha256:b31dd81fee55c793cce0b3046180a96a87a173dc1bd94b788a06c0cc469b33a4'}
+  - {seq: 1, role: markers, filename: assets/KR3eq065_001.markers.yaml, hash: 'sha256:a96a30c6ae3d7c3ef7946300f5a5d478e2d8791f56ea025a95ba045ebb821685'}
+  - {seq: 2, role: markers, filename: assets/KR3eq065_002.markers.yaml, hash: 'sha256:f683fa42c562bfcc21fd4bf2cfbc01bdf5c9ed07ff604707a7af7d79229e2e9a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2075,7 +2075,7 @@ table_of_contents:
   label: 中藥與西藥
   type: section
   level: 2
-hash: sha256:7691ee22be70fc32590a03748e7ff322475e2d61cb53e56198fd9503b07a1ff8
+hash: sha256:90d3fc163e2d8982089c35da4974be19f3b630d723fc3939b1245dea44dbe57b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
