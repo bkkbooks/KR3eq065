@@ -16,12 +16,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq065_000-jc.yaml, hash: 'sha256:f9472762599f1978151471609a99e0a01678ed82fb5253137e38894e7b3720be'}
+  - {seq: 0, filename: KR3eq065_000-jc.yaml, hash: 'sha256:06fcd664263007a9699c9538197ad7383b572457f476e7c4d0018a8a41f7fa1b'}
   - {seq: 1, filename: KR3eq065_001-jc.yaml, hash: 'sha256:317b97731039fbd960c3b5694a71425549bc97d448c0935c6dfa7a3b5ce014e6'}
-  - {seq: 0, filename: KR3eq065_000-jc.yaml, hash: 'sha256:b72b57fadcc681bea6a0df3fddc36d0f47d1d765576c9122f0fe3f783d38f028'}
+  - {seq: 0, filename: KR3eq065_000-jc.yaml, hash: 'sha256:06fcd664263007a9699c9538197ad7383b572457f476e7c4d0018a8a41f7fa1b'}
   - {seq: 2, filename: KR3eq065_002-jc.yaml, hash: 'sha256:854c7b9bd5298fd0dd71b2773ec453b8d8c82d4f987d366d1de58cb74d252679'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq065_000-jc.markers.yaml, hash: 'sha256:31e8026384adf380cd6dcc28910d96fd803fbb2e2821088329c0153affe816da'}
+  - {seq: 0, role: markers, filename: assets/KR3eq065_000-jc.markers.yaml, hash: 'sha256:b3a4487b34da25cc15b43114a52f8edc5f90bcda9e3d6108758dda0542de628c'}
   - {seq: 1, role: markers, filename: assets/KR3eq065_001-jc.markers.yaml, hash: 'sha256:f708cee6cfd449f366610d119e84d6ce53bc7c74693fc06c793e0c2506299bee'}
   - {seq: 2, role: markers, filename: assets/KR3eq065_002-jc.markers.yaml, hash: 'sha256:999e604ad6aa420b03ad3a12b17f54ff4e0ecf0b10ee08c0d56621f9cdca846e'}
 table_of_contents:
@@ -29,7 +29,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq065_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 367
   label: 序
@@ -1299,7 +1299,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq065_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 0
     - 608
   label: 慈濟醫話序
@@ -2075,4 +2075,4 @@ table_of_contents:
   label: 中藥與西藥
   type: section
   level: 2
-hash: sha256:ff0687e503b1e05abd306a65c5a35c608a36ea53bef03459c9b6ccefbcddd518
+hash: sha256:834577e757dc784a59b5383718321c96df063c06b6c3a37c5ddf791d086d7090
